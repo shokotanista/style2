@@ -34,7 +34,7 @@ body {
 	font-size: 8pt;
 	color: #999;
 	min-width: 950px;
-	background: url('images/stripe_bg.png') repeat;
+	background: #202020;
 }
 
 img {
@@ -240,7 +240,7 @@ textarea {
 
 }
 .donorbar {
-	background: url('images/dbar.png');
+	background: url('https://jpopsuki.eu/static/styles/connection/images/dbar.png');
 	background-repeat: repeat-x;
 	text-align: center;
 	max-height: 20px;
@@ -270,7 +270,7 @@ textarea {
 #wrapper {
 	width: 94%;
 	margin: 0px auto;
-	background: url('images/logo.png') no-repeat scroll right 72px;
+	background: url('https://jpopsuki.eu/static/styles/connection/images/logo.png') no-repeat scroll right 72px;
 }
 
 .hidden {
@@ -676,7 +676,7 @@ form tr {
 
 .bogus {
 
-	background: url('') no-repeat center center;
+	background: url('https://jpopsuki.eu/static/styles/connection/') no-repeat center center;
 	margin: 5px auto 0px auto;
 }
 
@@ -1117,7 +1117,7 @@ ul.poll li.graph {
 #left_poll {
 	width: 2px;
 	height: 9px;
-	background: url('images/bar_left.gif') no-repeat center center;
+	background: url('https://jpopsuki.eu/static/styles/connection/images/bar_left.gif') no-repeat center center;
 	float: left;
 	margin: 0px;
 	padding: 0px;
@@ -1125,7 +1125,7 @@ ul.poll li.graph {
 
 #center_poll {
 	height: 9px;
-	background: url('images/bar.gif') repeat;
+	background: url('https://jpopsuki.eu/static/styles/connection/images/bar.gif') repeat;
 	float: left;
 	margin: 0px;
 	padding: 0px;
@@ -1134,7 +1134,7 @@ ul.poll li.graph {
 #right_poll {
 	width: 2px;
 	height: 9px;
-	background: url('images/bar_right.gif') no-repeat center center;
+	background: url('https://jpopsuki.eu/static/styles/connection/images/bar_right.gif') no-repeat center center;
 	float: left;
 	margin: 0px;
 	padding: 0px;
@@ -1344,13 +1344,13 @@ float: right;
 .show_torrents {
 	width: 14px;
 	height: 14px;
-	background: url('images/minus.png') no-repeat;
+	background: url('https://jpopsuki.eu/static/styles/connection/images/minus.png') no-repeat;
 }
 
 .hide_torrents {
 	width: 14px;
 	height: 14px;
-	background: url('images/plus.png') no-repeat;
+	background: url('https://jpopsuki.eu/static/styles/connection/images/plus.png') no-repeat;
 }
 
 .show_torrents_link {
@@ -2048,13 +2048,13 @@ td {
 .show_torrents {
 	width: 28px;
 	height: 28px;
-	background: url('images/plus.png') no-repeat center center;
+	background: url('https://jpopsuki.eu/static/styles/connection/images/plus.png') no-repeat center center;
 }
 
 .hide_torrents {
 	width: 28px;
 	height: 28px;
-	background: url('images/minus.png') no-repeat center center;
+	background: url('https://jpopsuki.eu/static/styles/connection/images/minus.png') no-repeat center center;
 }
 
 .show_torrents_link {
